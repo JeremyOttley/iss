@@ -1,0 +1,3 @@
+two components:
+  -one button that on-click reveals the list of astronauts in space
+  -the second, two fields and a button that on-click takes values from the fields and generates the location of the iss from long/lat
